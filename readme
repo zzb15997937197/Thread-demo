@@ -1,0 +1,11 @@
+
+1.继承Thread与实现Runnable接口的区别
+    a.实现Runnable接口避免多继承局限
+    b.实现Runnable()可以更好的体现共享的概念
+    
+    
+
+
+2. 使用volatile关键字可以定义多线程的共享变量。    
+ 
+    
